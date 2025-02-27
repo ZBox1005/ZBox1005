@@ -15,3 +15,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZBox1005/ZBox1005/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZBox1005/ZBox1005/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ZBox1005/count.svg" />
+</p>
